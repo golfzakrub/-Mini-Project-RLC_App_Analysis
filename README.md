@@ -25,7 +25,7 @@ Enjoy :) ^^
 
 Link นำเสนอ https://www.youtube.com/watch?v=FEqACdHVIPg
 
-สมาชิกกลุ่ม
+**สมาชิกกลุ่ม**
 
 นาย อริญชัย สมบูรณ์ 6301012610078
 
@@ -38,7 +38,7 @@ Link นำเสนอ https://www.youtube.com/watch?v=FEqACdHVIPg
 แหล่งข้อมูลสำคัญๆที่ใช้อ้างอิง
 
 
-เพื่อหาสมการ ODE
+**เพื่อหาสมการ ODE**
 1. https://www.youtube.com/watch?v=DPwIZf_wBB4&t=1094s
 
 เพื่อศึกษาข้อมูลเกี่ยวกับ  Transfer function 
