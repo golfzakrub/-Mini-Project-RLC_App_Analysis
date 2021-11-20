@@ -48,3 +48,14 @@ Link นำเสนอ https://www.youtube.com/watch?v=FEqACdHVIPg
 เพื่อศึกษาการใช้งานคำสั่งต่างๆใน Matlab 
 1. https://ww2.mathworks.cn/en/
 
+![image](https://user-images.githubusercontent.com/70587016/142717830-9d7ae6c1-2acc-443e-bb59-796f92f4853e.png)
+![image](https://user-images.githubusercontent.com/70587016/142717833-f4f1fa54-05a5-42a9-87b2-527a780a8ee4.png)
+![image](https://user-images.githubusercontent.com/70587016/142717835-1594a5c7-55af-4ce6-9cf7-0698fcefb4a8.png)
+![image](https://user-images.githubusercontent.com/70587016/142717868-e09fa724-0fbd-4569-bf65-131bd272cf7b.png)
+
+
+
+
+
+
+
