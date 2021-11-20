@@ -32,3 +32,19 @@ Link นำเสนอ https://www.youtube.com/watch?v=FEqACdHVIPg
 นาย ทวีสุข สุทวีทรัพย์ 6301012630044
 
 นาย ธนกฤต สลีอ่อน 6301012630061
+
+
+--------------------------------------------------------------------------------------------------------------------
+แหล่งข้อมูลสำคัญๆที่ใช้อ้างอิง
+ด้านเนื้อหา
+
+เพื่อหาสมการ ODE
+1. https://www.youtube.com/watch?v=DPwIZf_wBB4&t=1094s
+
+เพื่อศึกษาข้อมูลเกี่ยวกับ  Transfer function 
+1. https://www.youtube.com/watch?v=af6MzzrFkSc&t=218s
+2. https://www.youtube.com/watch?v=nQR7RQTfYX0
+
+เพื่อศึกษาการใช้งานคำสั่งต่างๆใน Matlab 
+1. https://ww2.mathworks.cn/en/
+
