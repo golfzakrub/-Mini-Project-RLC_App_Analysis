@@ -44,9 +44,11 @@ Link นำเสนอ https://www.youtube.com/watch?v=FEqACdHVIPg
 เพื่อศึกษาข้อมูลเกี่ยวกับ  Transfer function 
 1. https://www.youtube.com/watch?v=af6MzzrFkSc&t=218s
 2. https://www.youtube.com/watch?v=nQR7RQTfYX0
+3. https://cookierobotics.com/010/
 
-เพื่อศึกษาการใช้งานคำสั่งต่างๆใน Matlab 
+เพื่อศึกษาการใช้งานคำสั่งต่างๆใน Matlab และอื่นๆ
 1. https://ww2.mathworks.cn/en/
+2. https://www.multisim.com/create/
 
 ![image](https://user-images.githubusercontent.com/70587016/142717830-9d7ae6c1-2acc-443e-bb59-796f92f4853e.png)
 ![image](https://user-images.githubusercontent.com/70587016/142717833-f4f1fa54-05a5-42a9-87b2-527a780a8ee4.png)
