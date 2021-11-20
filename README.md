@@ -9,7 +9,7 @@ Mini Project นี้จัดทำโดยการประยุกต์�
 
 **Requirement**
 1. Matlab
-2. Add on Matlab ที่มีชื่อว่า "Control Systems Toolbox" เพื่อ Run คำสั่งบางคำสั่งในไฟล์นี้ (หากไม่มีให้ไปที่ MATLAB - > HOME -> Add-Ons -> Get Add-ons -> ต้นหา “Control Systems Toolbox” จากนั้น install)
+2. Add on Matlab ที่มีชื่อว่า "Control Systems Toolbox" เพื่อ Run คำสั่งบางคำสั่งในไฟล์นี้ (หากไม่มีให้ไปที่ MATLAB - > HOME -> Add-Ons -> Get Add-ons -> ค้นหา “Control Systems Toolbox” จากนั้น install)
 
 **การทำงาน**
 1. ป้อน input ตามที่กำหนดไว้ในหน้าต่าง RLC Values
